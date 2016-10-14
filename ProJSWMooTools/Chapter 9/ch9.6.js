@@ -1,0 +1,11 @@
+[name]
+[name="item"]
+[name~="item"]
+[name|="item"]
+[name^="item"]
+[name$="item"]
+[name*="item"]
+form[target="iframe"][method="POST"]
+*[href="http://keetology.com"].navigation
+#wrapper.ie
+[name*="password"].error

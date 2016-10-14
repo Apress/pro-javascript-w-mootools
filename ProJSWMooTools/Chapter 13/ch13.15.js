@@ -1,0 +1,1 @@
+require('mootools').into(global);

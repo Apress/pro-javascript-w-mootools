@@ -1,0 +1,3 @@
+function Table(){
+    this.$storage = {};
+};

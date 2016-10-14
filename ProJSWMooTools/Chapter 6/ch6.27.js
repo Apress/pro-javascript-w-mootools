@@ -1,0 +1,1 @@
+new Type('Array', Array);

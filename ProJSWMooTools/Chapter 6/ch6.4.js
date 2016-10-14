@@ -1,0 +1,8 @@
+console.log( typeOf(42) );              // 'number'
+console.log( typeOf(true) );            // 'boolean'
+console.log( typeOf('hello') );         // 'string'
+console.log( typeOf(function (){}) );   // 'function'
+console.log( typeOf({name: 'mark'}) );  // 'object'
+console.log( typeOf([1, 2, 3]) );       // 'array'
+console.log( typeOf(new Date()) );      // 'date'
+console.log( typeOf(new Class()) );     // 'class'
